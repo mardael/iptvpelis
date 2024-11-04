@@ -1,10 +1,19 @@
-﻿#EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFiNDBkZGUtZmQzZS00N2Q3LWI1MjItZmJiMjg3YTZjYjk4XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg" group-title="VOD A LA CARTA",LEGO Marvel Avengers: Código rojo (2023)
-https://delivery-node-afp0y7g5dthuxm2g.voe-network.net/engine/hls2/01/09781/xmmu3utkfkwm_,n,.urlset/master.m3u8?t=DejEB5JXrTSA49PLwtd8CQLK2cRQmt-KRDztYrX0T7s&s=1701058551&e=14400&f=49659147&node=delivery-node-afp0y7g5dthuxm2g.voe-network.net&i=138.99&sp=2500&asn=262199
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Super_Mario_Bros_La_pelaicula-899986542-large.jpg" group-title="VOD A LA CARTA",Súper Mario Bros (2023)
-https://a9d752bc.sw-cdnstream.com/hls2/01/00036/6u5jto1igx1g_n/master.m3u8?t=EpLSL6dwgIKkAdhBu_8grtvBglxb5YGqOsFgPfZE6qk&s=1701060500&e=129600&f=859573&srv=G4AWRwDNYoRF&i=0.4&sp=500&p1=G4AWRwDNYoRF&p2=G4AWRwDNYoRF&asn=262199
-#EXTINF:-1 tvg-logo="https://repelis24.life/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FuUAsEgeeJjZk01kmQazbJmYhORx.jpg&w=256&q=75" group-title="VOD A LA CARTA",Tierra de Osos (2003)
-https://delivery-node-3yprgl8jpyxmb4qz.voe-network.net/engine/hls2-c/01/08175/5h8qmohxuq2c_,n,.urlset/master.m3u8?t=9O6QAeSaK7yI5RyXOD-9Xs1gW3pj2zRsbY5QaMSt_K4&s=1701061938&e=14400&f=40879605&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=138.99&sp=2500&asn=262199
-#EXTINF:-1 tvg-logo="https://repelis24.life/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FjPhak722pNGxQIXSEfeWIUqBrO5.jpg&w=256&q=75" group-title="VOD A LA CARTA",Buscando a Nemo (2003)
-https://be4242.rcr52.ams03.cdn112.com/hls2/03/04948/zr1s14prgoua_h/master.m3u8?t=MhqJcMCp142XAz0NALcCxXHmnrrdPp164EQpLYxzH4E&s=1701062129&e=43200&f=24740489&srv=31&asn=262199&sp=2000
+#EXTINF:-1,LEGO Marvel Avengers: Misión Demolición
+https://delivery-node-hbcea1msd43hebw9.voe-network.net/engine/hls2/01/12494/sqscpeb8prey_,n,.urlset/master.m3u8?t=fIY7Vayo-IbgfyZ8aQdK8DuBju_YFb2mPmsKsLiQRYE&s=1730692821&e=14400&f=62473664&node=delivery-node-hbcea1msd43hebw9.voe-network.net&i=138.99&sp=2500&asn=262199
+
+#EXTINF:-1,Robot Salvaje
+https://delivery-node-e4jwmbirvl7quvxb.voe-network.net/engine/hls2/01/12464/t9tgnxa0o13b_,n,.urlset/index-v1-a1.m3u8?t=yT6saGjqRAVm5x7xuCFgjhTeILCeZbDNSGq09Vsm5wQ&s=1730696561&e=14400&f=62320739&node=delivery-node-e4jwmbirvl7quvxb.voe-network.net&i=138.99&sp=2500&asn=262199
+
+#EXTINF:-1,Angry Birds La Pelicula
+https://delivery-node-tv7mdctc4zclyvfn.voe-network.net/engine/hls2/01/10468/nybytnnhazab_,n,.urlset/index-v1-a1.m3u8?t=Gzh_oGLeKDvWQ5c5c1cShjgXLmiSO7EG1e-Q67AYkcs&s=1730697225&e=14400&f=52340983&node=delivery-node-tv7mdctc4zclyvfn.voe-network.net&i=138.99&sp=2500&asn=262199
+
+#EXTINF:-1,Angry Birds 2
+https://delivery-node-dn6647kwlzsbafuk.voe-network.net/engine/hls2/01/10468/kzi7zfjllosd_,n,.urlset/index-v1-a1.m3u8?t=7IfZc6Mdjq6GORlfSUvfAdczrlTFLiuAlJzOPZeWDEo&s=1730698427&e=14400&f=52340884&node=delivery-node-dn6647kwlzsbafuk.voe-network.net&i=138.99&sp=2500&asn=262199
+
+#EXTINF:-1,Lluvia de hamburguesas
+https://delivery-node-ih1zeyyumwjndcfh.voe-network.net/engine/hls2/01/10468/ru71oenkwn3o_,n,.urlset/index-v1-a1.m3u8?t=4d4yFGBCnoz1U5lSaAT7Mu-FHAqBbTVLEbFX9dz3wDQ&s=1730698630&e=14400&f=52340607&node=delivery-node-ih1zeyyumwjndcfh.voe-network.net&i=138.99&sp=2500&asn=262199
+
+#EXTINF:-1,Lluvia de hamburguesas 2
+https://delivery-node-qqwqzwrjm1uwlim6.voe-network.net/engine/hls2/01/10468/moypfp77uuc0_,n,.urlset/index-v1-a1.m3u8?t=UyPg0WqNJIalPnuFfR8P34W4yT1fHpj7AvhLUchudJQ&s=1730698846&e=14400&f=52340629&node=delivery-node-qqwqzwrjm1uwlim6.voe-network.net&i=138.99&sp=2500&asn=262199
